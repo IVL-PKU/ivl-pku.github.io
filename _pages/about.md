@@ -10,7 +10,7 @@ redirect_from:
 
 This is the <font color=brown>Immersive Vision Lab</font> of Peking University（北京大学沉浸影像实验室）. We are devoted to producing immersive volumetric video by technologies of computer vision, graphics and multimedia etc.
 
-IVL is a young and active team led and supervised by professor [Ronggang Wang](https://scholar.google.com/citations?user=CEEvb64AAAAJ&hl=en&oi=ao)（王荣刚教授）, who is an expert in multimedia and video technologies.
+IVL is a young and active team led and supervised by professor [Ronggang Wang](https://scholar.google.com/citations?user=CEEvb64AAAAJ&hl=en&oi=ao)（王荣刚教授）, who is one of world-class experts in multimedia and video technologies.
 
 
 Getting started
