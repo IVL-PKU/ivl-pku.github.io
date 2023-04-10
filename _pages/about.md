@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the <font color=brown>Immersive Vision Lab</font> of Peking University. We are devoted to producing immersive volumetric video by technologies of computer vision, graphics and multimedia etc.
+This is the <font color=brown>Immersive Vision Lab</font> of Peking University(IVL-PKU). We are devoted to producing immersive volumetric video by technologies of computer vision, graphics and multimedia etc.
 
-IVL is led and supervised by professor [Ronggang Wang](https://scholar.google.com/citations?user=CEEvb64AAAAJ&hl=en&oi=ao).
+IVL is a young and active team led and supervised by professor [Ronggang Wang](https://scholar.google.com/citations?user=CEEvb64AAAAJ&hl=en&oi=ao), who is an expert in multimedia and video technologies.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/ivl-pku/ivl-pku.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
 ======
